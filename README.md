@@ -1,7 +1,7 @@
 # Revenue-Insights-Sales-Performance-Analysis
 Developed an end-to-end Sales Performance Analysis project using SQL,Python and Power BI. Performed data cleaning, EDA, SQL-based business analysis, data modeling, and dashboard development. Built interactive KPI dashboards to analyze sales, profit, product performance, regional trends, and key business insights.
 ## Project Overview
-This project analyzes retail sales performance using SQL and Power BI to uncover revenue trends, profitability drivers, product performance, and regional business insights. The objective is to transform raw sales data into actionable insights that support data-driven decision-making.
+This project analyzes retail sales performance using SQL,Python and Power BI to uncover revenue trends, profitability drivers, product performance, and regional business insights. The objective is to transform raw sales data into actionable insights that support data-driven decision-making.
 
 The project follows a complete analytics workflow, including data cleaning, exploratory data analysis (EDA), SQL-based business analysis, data modeling, and interactive dashboard development.
 
@@ -21,6 +21,7 @@ This project addresses these challenges through analytical reporting and visuali
 * Data Modeling
 * DAX Measures
 * Microsoft Excel
+* Python
 ---
 ## Project Workflow
 ### 1. Data Cleaning
