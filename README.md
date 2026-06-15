@@ -4,6 +4,7 @@ Developed an end-to-end Sales Performance Analysis project using SQL and Power B
 This project analyzes retail sales performance using SQL and Power BI to uncover revenue trends, profitability drivers, product performance, and regional business insights. The objective is to transform raw sales data into actionable insights that support data-driven decision-making.
 
 The project follows a complete analytics workflow, including data cleaning, exploratory data analysis (EDA), SQL-based business analysis, data modeling, and interactive dashboard development.
+
 ---
 ## Business Problem
 Businesses generate large volumes of sales data but often struggle to identify:
