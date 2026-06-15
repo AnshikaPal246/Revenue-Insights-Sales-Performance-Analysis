@@ -16,6 +16,7 @@ This project addresses these challenges through analytical reporting and visuali
 ---
 ## Tools & Technologies
 * SQL (MySQL)
+* Pandas
 * Power BI
 * Power Query
 * Data Modeling
@@ -86,10 +87,12 @@ Designed an interactive Power BI dashboard featuring:
 (Add your dashboard screenshot here)
 ---
 ## Project Outcome
-The project demonstrates how SQL and Power BI can be used together to transform raw transactional data into meaningful business insights. The dashboard enables stakeholders to monitor sales performance, identify profitable products, and support strategic decision-making.
+The project demonstrates how SQL, Python and Power BI can be used together to transform raw transactional data into meaningful business insights. The dashboard enables stakeholders to monitor sales performance, identify profitable products, and support strategic decision-making.
+
 ---
 ## Skills Demonstrated
-* Data Cleaning
+* Data Cleaning(Pandas)
+* Python
 * Exploratory Data Analysis
 * SQL Querying
 * Business Analysis
