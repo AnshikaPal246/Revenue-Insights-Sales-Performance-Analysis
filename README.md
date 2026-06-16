@@ -84,7 +84,7 @@ Designed an interactive Power BI dashboard featuring:
 * High sales volume does not always translate into high profitability.
 ---
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+![Screenshot](https://github.com/AnshikaPal246/Revenue-Insights-Sales-Performance-Analysis/blob/main/Sanpshot.png.png)
 ---
 ## Project Outcome
 The project demonstrates how SQL, Python and Power BI can be used together to transform raw transactional data into meaningful business insights. The dashboard enables stakeholders to monitor sales performance, identify profitable products, and support strategic decision-making.
